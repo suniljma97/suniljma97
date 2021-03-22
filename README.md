@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Sunil Dhakad
 - 👀 I’m interested in java Programming 
-- 🌱 I’m currently learning Maulana Azad National Institute of Technology( NIT ) , Bhopal , Madhaya Pradesh , India
+- 🌱 I’m currently learning Maulana Azad National Institute of Technology( NIT ) , Bhopal , Madhya Pradesh , India
